@@ -1,0 +1,7 @@
+export { default as Hero } from './hero'
+export { default as Robot } from './robot'
+export { default as About } from './about'
+export { default as Projects } from './projects'
+export { default as Team } from './team'
+export { default as Expertise } from './expertise'
+export { default as Blog } from './blog'
